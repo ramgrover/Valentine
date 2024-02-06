@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #77bdd3;
+}
+
+.header_text {
+    font-family:cursive;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(212, 66, 66);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
